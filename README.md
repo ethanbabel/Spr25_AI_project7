@@ -46,7 +46,7 @@ The project includes a step-by-step guide with clear **TODOs** and hints.
 
 ---
 
-## 👨How Students Will Work on It
+## How Students Will Work on It
 
 - Start by understanding how states, actions, and rewards are set up.
 - Implement simple initialization (value table).
